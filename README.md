@@ -47,4 +47,4 @@ price: number
 
 ## Submission
 
-To submit this take-home, upload the project to your GitHub account as a public repository and provide a link to the repository when complete.
+To submit this take-home, upload the project to your GitHub account as a private repository and add the GitHub handles provided to you by the recruiter as collaborators.
